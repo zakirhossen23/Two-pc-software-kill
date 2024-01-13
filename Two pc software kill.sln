@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Two pc software kill", "Two pc software kill.vbproj", "{7B76D3BD-5869-44CC-A2A0-99B1F26B6BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B76D3BD-5869-44CC-A2A0-99B1F26B6BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B76D3BD-5869-44CC-A2A0-99B1F26B6BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B76D3BD-5869-44CC-A2A0-99B1F26B6BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B76D3BD-5869-44CC-A2A0-99B1F26B6BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F146B8-E897-4AF9-9D86-94534802D041}
+	EndGlobalSection
+EndGlobal
